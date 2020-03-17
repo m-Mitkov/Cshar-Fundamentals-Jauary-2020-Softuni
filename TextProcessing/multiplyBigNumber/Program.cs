@@ -7,6 +7,7 @@ namespace multiplyBigNumber1
     {
         static void Main(string[] args)
         {
+            // The task was not to use the build in BigInteger class.
             string bigNumber = Console.ReadLine();
             int multiplier = int.Parse(Console.ReadLine());
 
