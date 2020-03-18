@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\bin\Debug\netcoreapp3.0\matchDates.exe
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\bin\Debug\netcoreapp3.0\matchDates.deps.json
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\bin\Debug\netcoreapp3.0\matchDates.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\bin\Debug\netcoreapp3.0\matchDates.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\bin\Debug\netcoreapp3.0\matchDates.dll
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\bin\Debug\netcoreapp3.0\matchDates.pdb
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\obj\Debug\netcoreapp3.0\matchDates.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\obj\Debug\netcoreapp3.0\matchDates.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\obj\Debug\netcoreapp3.0\matchDates.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\obj\Debug\netcoreapp3.0\matchDates.dll
+C:\Users\Martin Mitkov\source\repos\matchDates\matchDates\obj\Debug\netcoreapp3.0\matchDates.pdb

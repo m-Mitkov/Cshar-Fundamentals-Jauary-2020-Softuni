@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\bin\Debug\netcoreapp3.0\matchFullName1.exe
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\bin\Debug\netcoreapp3.0\matchFullName1.deps.json
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\bin\Debug\netcoreapp3.0\matchFullName1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\bin\Debug\netcoreapp3.0\matchFullName1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\bin\Debug\netcoreapp3.0\matchFullName1.dll
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\bin\Debug\netcoreapp3.0\matchFullName1.pdb
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\obj\Debug\netcoreapp3.0\matchFullName1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\obj\Debug\netcoreapp3.0\matchFullName1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\obj\Debug\netcoreapp3.0\matchFullName1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\obj\Debug\netcoreapp3.0\matchFullName1.dll
+C:\Users\Martin Mitkov\source\repos\matchFullName1\matchFullName1\obj\Debug\netcoreapp3.0\matchFullName1.pdb

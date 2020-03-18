@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\bin\Debug\netcoreapp3.0\matchPhoneNumber.exe
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\bin\Debug\netcoreapp3.0\matchPhoneNumber.deps.json
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\bin\Debug\netcoreapp3.0\matchPhoneNumber.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\bin\Debug\netcoreapp3.0\matchPhoneNumber.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\bin\Debug\netcoreapp3.0\matchPhoneNumber.dll
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\bin\Debug\netcoreapp3.0\matchPhoneNumber.pdb
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\obj\Debug\netcoreapp3.0\matchPhoneNumber.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\obj\Debug\netcoreapp3.0\matchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\obj\Debug\netcoreapp3.0\matchPhoneNumber.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\obj\Debug\netcoreapp3.0\matchPhoneNumber.dll
+C:\Users\Martin Mitkov\source\repos\matchPhoneNumber\matchPhoneNumber\obj\Debug\netcoreapp3.0\matchPhoneNumber.pdb
