@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\bin\Debug\netcoreapp3.0\extractEmails.exe
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\bin\Debug\netcoreapp3.0\extractEmails.deps.json
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\bin\Debug\netcoreapp3.0\extractEmails.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\bin\Debug\netcoreapp3.0\extractEmails.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\bin\Debug\netcoreapp3.0\extractEmails.dll
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\bin\Debug\netcoreapp3.0\extractEmails.pdb
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\obj\Debug\netcoreapp3.0\extractEmails.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\obj\Debug\netcoreapp3.0\extractEmails.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\obj\Debug\netcoreapp3.0\extractEmails.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\obj\Debug\netcoreapp3.0\extractEmails.dll
+C:\Users\Martin Mitkov\source\repos\extractEmails\extractEmails\obj\Debug\netcoreapp3.0\extractEmails.pdb
