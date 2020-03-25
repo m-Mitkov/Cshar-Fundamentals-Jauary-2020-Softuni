@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\bin\Debug\netcoreapp3.0\heroRecruitment.exe
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\bin\Debug\netcoreapp3.0\heroRecruitment.deps.json
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\bin\Debug\netcoreapp3.0\heroRecruitment.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\bin\Debug\netcoreapp3.0\heroRecruitment.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\bin\Debug\netcoreapp3.0\heroRecruitment.dll
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\bin\Debug\netcoreapp3.0\heroRecruitment.pdb
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\obj\Debug\netcoreapp3.0\heroRecruitment.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\obj\Debug\netcoreapp3.0\heroRecruitment.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\obj\Debug\netcoreapp3.0\heroRecruitment.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\obj\Debug\netcoreapp3.0\heroRecruitment.dll
+C:\Users\Martin Mitkov\source\repos\heroRecruitment\heroRecruitment\obj\Debug\netcoreapp3.0\heroRecruitment.pdb

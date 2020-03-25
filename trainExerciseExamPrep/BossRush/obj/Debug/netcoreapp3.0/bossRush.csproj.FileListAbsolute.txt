@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\bin\Debug\netcoreapp3.0\bossRush.exe
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\bin\Debug\netcoreapp3.0\bossRush.deps.json
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\bin\Debug\netcoreapp3.0\bossRush.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\bin\Debug\netcoreapp3.0\bossRush.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\bin\Debug\netcoreapp3.0\bossRush.dll
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\bin\Debug\netcoreapp3.0\bossRush.pdb
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\obj\Debug\netcoreapp3.0\bossRush.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\obj\Debug\netcoreapp3.0\bossRush.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\obj\Debug\netcoreapp3.0\bossRush.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\obj\Debug\netcoreapp3.0\bossRush.dll
+C:\Users\Martin Mitkov\source\repos\bossRush\bossRush\obj\Debug\netcoreapp3.0\bossRush.pdb
