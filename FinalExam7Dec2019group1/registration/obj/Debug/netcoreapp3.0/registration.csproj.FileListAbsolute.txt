@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\registration\registration\bin\Debug\netcoreapp3.0\registration.exe
+C:\Users\Martin Mitkov\source\repos\registration\registration\bin\Debug\netcoreapp3.0\registration.deps.json
+C:\Users\Martin Mitkov\source\repos\registration\registration\bin\Debug\netcoreapp3.0\registration.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\registration\registration\bin\Debug\netcoreapp3.0\registration.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\registration\registration\bin\Debug\netcoreapp3.0\registration.dll
+C:\Users\Martin Mitkov\source\repos\registration\registration\bin\Debug\netcoreapp3.0\registration.pdb
+C:\Users\Martin Mitkov\source\repos\registration\registration\obj\Debug\netcoreapp3.0\registration.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\registration\registration\obj\Debug\netcoreapp3.0\registration.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\registration\registration\obj\Debug\netcoreapp3.0\registration.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\registration\registration\obj\Debug\netcoreapp3.0\registration.dll
+C:\Users\Martin Mitkov\source\repos\registration\registration\obj\Debug\netcoreapp3.0\registration.pdb

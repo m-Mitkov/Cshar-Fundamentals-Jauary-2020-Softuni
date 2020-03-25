@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\bin\Debug\netcoreapp3.0\inboxManager.exe
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\bin\Debug\netcoreapp3.0\inboxManager.deps.json
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\bin\Debug\netcoreapp3.0\inboxManager.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\bin\Debug\netcoreapp3.0\inboxManager.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\bin\Debug\netcoreapp3.0\inboxManager.dll
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\bin\Debug\netcoreapp3.0\inboxManager.pdb
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\obj\Debug\netcoreapp3.0\inboxManager.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\obj\Debug\netcoreapp3.0\inboxManager.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\obj\Debug\netcoreapp3.0\inboxManager.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\obj\Debug\netcoreapp3.0\inboxManager.dll
+C:\Users\Martin Mitkov\source\repos\inboxManager\inboxManager\obj\Debug\netcoreapp3.0\inboxManager.pdb

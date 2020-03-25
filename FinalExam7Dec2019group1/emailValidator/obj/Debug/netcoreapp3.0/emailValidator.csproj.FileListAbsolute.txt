@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\bin\Debug\netcoreapp3.0\emailValidator.exe
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\bin\Debug\netcoreapp3.0\emailValidator.deps.json
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\bin\Debug\netcoreapp3.0\emailValidator.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\bin\Debug\netcoreapp3.0\emailValidator.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\bin\Debug\netcoreapp3.0\emailValidator.dll
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\bin\Debug\netcoreapp3.0\emailValidator.pdb
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\obj\Debug\netcoreapp3.0\emailValidator.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\obj\Debug\netcoreapp3.0\emailValidator.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\obj\Debug\netcoreapp3.0\emailValidator.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\obj\Debug\netcoreapp3.0\emailValidator.dll
+C:\Users\Martin Mitkov\source\repos\emailValidator\emailValidator\obj\Debug\netcoreapp3.0\emailValidator.pdb
