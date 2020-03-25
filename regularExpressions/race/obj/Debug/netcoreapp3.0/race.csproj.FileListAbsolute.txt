@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\race\race\bin\Debug\netcoreapp3.0\race.exe
+C:\Users\Martin Mitkov\source\repos\race\race\bin\Debug\netcoreapp3.0\race.deps.json
+C:\Users\Martin Mitkov\source\repos\race\race\bin\Debug\netcoreapp3.0\race.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\race\race\bin\Debug\netcoreapp3.0\race.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\race\race\bin\Debug\netcoreapp3.0\race.dll
+C:\Users\Martin Mitkov\source\repos\race\race\bin\Debug\netcoreapp3.0\race.pdb
+C:\Users\Martin Mitkov\source\repos\race\race\obj\Debug\netcoreapp3.0\race.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\race\race\obj\Debug\netcoreapp3.0\race.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\race\race\obj\Debug\netcoreapp3.0\race.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\race\race\obj\Debug\netcoreapp3.0\race.dll
+C:\Users\Martin Mitkov\source\repos\race\race\obj\Debug\netcoreapp3.0\race.pdb

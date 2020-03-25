@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\bin\Debug\netcoreapp3.0\starEnigma.exe
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\bin\Debug\netcoreapp3.0\starEnigma.deps.json
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\bin\Debug\netcoreapp3.0\starEnigma.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\bin\Debug\netcoreapp3.0\starEnigma.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\bin\Debug\netcoreapp3.0\starEnigma.dll
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\bin\Debug\netcoreapp3.0\starEnigma.pdb
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\obj\Debug\netcoreapp3.0\starEnigma.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\obj\Debug\netcoreapp3.0\starEnigma.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\obj\Debug\netcoreapp3.0\starEnigma.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\obj\Debug\netcoreapp3.0\starEnigma.dll
+C:\Users\Martin Mitkov\source\repos\starEnigma\starEnigma\obj\Debug\netcoreapp3.0\starEnigma.pdb

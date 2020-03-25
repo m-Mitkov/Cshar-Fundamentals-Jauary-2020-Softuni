@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\bin\Debug\netcoreapp3.0\softUniBarIncome1.exe
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\bin\Debug\netcoreapp3.0\softUniBarIncome1.deps.json
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\bin\Debug\netcoreapp3.0\softUniBarIncome1.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\bin\Debug\netcoreapp3.0\softUniBarIncome1.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\bin\Debug\netcoreapp3.0\softUniBarIncome1.dll
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\bin\Debug\netcoreapp3.0\softUniBarIncome1.pdb
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\obj\Debug\netcoreapp3.0\softUniBarIncome1.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\obj\Debug\netcoreapp3.0\softUniBarIncome1.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\obj\Debug\netcoreapp3.0\softUniBarIncome1.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\obj\Debug\netcoreapp3.0\softUniBarIncome1.dll
+C:\Users\Martin Mitkov\source\repos\softUniBarIncome1\softUniBarIncome1\obj\Debug\netcoreapp3.0\softUniBarIncome1.pdb

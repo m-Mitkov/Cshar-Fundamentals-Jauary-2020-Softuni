@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "softUniBarIncome1/1.0.0": {
+        "runtime": {
+          "softUniBarIncome1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "softUniBarIncome1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

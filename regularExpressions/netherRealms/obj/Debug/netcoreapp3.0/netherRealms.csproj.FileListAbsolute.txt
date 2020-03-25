@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\bin\Debug\netcoreapp3.0\netherRealms.exe
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\bin\Debug\netcoreapp3.0\netherRealms.deps.json
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\bin\Debug\netcoreapp3.0\netherRealms.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\bin\Debug\netcoreapp3.0\netherRealms.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\bin\Debug\netcoreapp3.0\netherRealms.dll
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\bin\Debug\netcoreapp3.0\netherRealms.pdb
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\obj\Debug\netcoreapp3.0\netherRealms.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\obj\Debug\netcoreapp3.0\netherRealms.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\obj\Debug\netcoreapp3.0\netherRealms.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\obj\Debug\netcoreapp3.0\netherRealms.dll
+C:\Users\Martin Mitkov\source\repos\netherRealms\netherRealms\obj\Debug\netcoreapp3.0\netherRealms.pdb
