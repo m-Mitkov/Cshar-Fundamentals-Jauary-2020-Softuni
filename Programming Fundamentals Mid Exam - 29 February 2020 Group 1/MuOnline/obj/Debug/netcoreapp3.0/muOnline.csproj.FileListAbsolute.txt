@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\bin\Debug\netcoreapp3.0\muOnline.exe
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\bin\Debug\netcoreapp3.0\muOnline.deps.json
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\bin\Debug\netcoreapp3.0\muOnline.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\bin\Debug\netcoreapp3.0\muOnline.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\bin\Debug\netcoreapp3.0\muOnline.dll
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\bin\Debug\netcoreapp3.0\muOnline.pdb
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\obj\Debug\netcoreapp3.0\muOnline.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\obj\Debug\netcoreapp3.0\muOnline.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\obj\Debug\netcoreapp3.0\muOnline.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\obj\Debug\netcoreapp3.0\muOnline.dll
+C:\Users\Martin Mitkov\source\repos\muOnline\muOnline\obj\Debug\netcoreapp3.0\muOnline.pdb

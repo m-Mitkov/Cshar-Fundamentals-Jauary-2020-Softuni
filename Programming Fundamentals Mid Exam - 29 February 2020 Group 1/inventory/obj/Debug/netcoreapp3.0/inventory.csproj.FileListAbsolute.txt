@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\bin\Debug\netcoreapp3.0\inventory.exe
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\bin\Debug\netcoreapp3.0\inventory.deps.json
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\bin\Debug\netcoreapp3.0\inventory.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\bin\Debug\netcoreapp3.0\inventory.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\bin\Debug\netcoreapp3.0\inventory.dll
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\bin\Debug\netcoreapp3.0\inventory.pdb
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\obj\Debug\netcoreapp3.0\inventory.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\obj\Debug\netcoreapp3.0\inventory.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\obj\Debug\netcoreapp3.0\inventory.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\obj\Debug\netcoreapp3.0\inventory.dll
+C:\Users\Martin Mitkov\source\repos\inventory\inventory\obj\Debug\netcoreapp3.0\inventory.pdb
