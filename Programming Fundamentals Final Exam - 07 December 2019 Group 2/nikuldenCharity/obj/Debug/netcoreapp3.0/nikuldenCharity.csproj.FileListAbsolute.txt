@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\bin\Debug\netcoreapp3.0\nikuldenCharity.exe
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\bin\Debug\netcoreapp3.0\nikuldenCharity.deps.json
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\bin\Debug\netcoreapp3.0\nikuldenCharity.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\bin\Debug\netcoreapp3.0\nikuldenCharity.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\bin\Debug\netcoreapp3.0\nikuldenCharity.dll
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\bin\Debug\netcoreapp3.0\nikuldenCharity.pdb
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\obj\Debug\netcoreapp3.0\nikuldenCharity.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\obj\Debug\netcoreapp3.0\nikuldenCharity.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\obj\Debug\netcoreapp3.0\nikuldenCharity.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\obj\Debug\netcoreapp3.0\nikuldenCharity.dll
+C:\Users\Martin Mitkov\source\repos\nikuldenCharity\nikuldenCharity\obj\Debug\netcoreapp3.0\nikuldenCharity.pdb

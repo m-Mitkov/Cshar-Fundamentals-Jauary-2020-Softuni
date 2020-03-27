@@ -1,0 +1,11 @@
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\bin\Debug\netcoreapp3.0\nikuldenMeals.exe
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\bin\Debug\netcoreapp3.0\nikuldenMeals.deps.json
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\bin\Debug\netcoreapp3.0\nikuldenMeals.runtimeconfig.json
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\bin\Debug\netcoreapp3.0\nikuldenMeals.runtimeconfig.dev.json
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\bin\Debug\netcoreapp3.0\nikuldenMeals.dll
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\bin\Debug\netcoreapp3.0\nikuldenMeals.pdb
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\obj\Debug\netcoreapp3.0\nikuldenMeals.csprojAssemblyReference.cache
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\obj\Debug\netcoreapp3.0\nikuldenMeals.AssemblyInfoInputs.cache
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\obj\Debug\netcoreapp3.0\nikuldenMeals.AssemblyInfo.cs
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\obj\Debug\netcoreapp3.0\nikuldenMeals.dll
+C:\Users\Martin Mitkov\source\repos\nikuldenMeals\nikuldenMeals\obj\Debug\netcoreapp3.0\nikuldenMeals.pdb
